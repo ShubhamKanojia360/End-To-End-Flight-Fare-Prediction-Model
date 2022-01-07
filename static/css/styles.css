@@ -1,0 +1,19 @@
+
+body {
+    background-image: url('plane.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
